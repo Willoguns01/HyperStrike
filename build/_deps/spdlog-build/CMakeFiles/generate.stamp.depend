@@ -1,0 +1,11 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+D:/Programming/HyperStrike/build/_deps/spdlog-src/CMakeLists.txt
+D:/Programming/HyperStrike/build/_deps/spdlog-src/cmake/ide.cmake
+D:/Programming/HyperStrike/build/_deps/spdlog-src/cmake/utils.cmake

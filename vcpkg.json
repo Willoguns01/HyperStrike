@@ -1,0 +1,12 @@
+{
+  "dependencies": [
+    "glfw3",
+    "openxr-loader",
+    "joltphysics",
+    "zstd",
+    "simdjson",
+    "fastgltf",
+    "stb",
+    "enkits"
+  ]
+}

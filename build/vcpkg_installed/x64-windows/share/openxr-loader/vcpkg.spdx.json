@@ -1,0 +1,176 @@
+{
+  "$schema": "https://raw.githubusercontent.com/spdx/spdx-spec/v2.2.1/schemas/spdx-schema.json",
+  "spdxVersion": "SPDX-2.2",
+  "dataLicense": "CC0-1.0",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "documentNamespace": "https://spdx.org/spdxdocs/openxr-loader-x64-windows-1.0.31-9beada01-0a8d-4d95-996b-4e3fbfb1f6c0",
+  "name": "openxr-loader:x64-windows@1.0.31 6dff19db547b4040f990752fd9bc93fd0df23e7bf29ca5adcba5c3e9aa1739c6",
+  "creationInfo": {
+    "creators": [
+      "Tool: vcpkg-2024-09-30-ab8988503c7cffabfd440b243a383c0a352a023d"
+    ],
+    "created": "2024-11-12T09:37:48Z"
+  },
+  "relationships": [
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "GENERATES",
+      "relatedSpdxElement": "SPDXRef-binary"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-0"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-1"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-2"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-3"
+    },
+    {
+      "spdxElementId": "SPDXRef-port",
+      "relationshipType": "CONTAINS",
+      "relatedSpdxElement": "SPDXRef-file-4"
+    },
+    {
+      "spdxElementId": "SPDXRef-binary",
+      "relationshipType": "GENERATED_FROM",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-0",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-1",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-2",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-3",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    },
+    {
+      "spdxElementId": "SPDXRef-file-4",
+      "relationshipType": "CONTAINED_BY",
+      "relatedSpdxElement": "SPDXRef-port"
+    }
+  ],
+  "packages": [
+    {
+      "name": "openxr-loader",
+      "SPDXID": "SPDXRef-port",
+      "versionInfo": "1.0.31",
+      "downloadLocation": "git+https://github.com/microsoft/vcpkg@a8275bf000597b3d7cd12109347f21552bcd39cc",
+      "homepage": "https://github.com/KhronosGroup/OpenXR-SDK",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "description": "A royalty-free, open standard that provides high-performance access to Augmented Reality (AR) and Virtual Reality (VR)—collectively known as XR—platforms and devices",
+      "comment": "This is the port (recipe) consumed by vcpkg."
+    },
+    {
+      "name": "openxr-loader:x64-windows",
+      "SPDXID": "SPDXRef-binary",
+      "versionInfo": "6dff19db547b4040f990752fd9bc93fd0df23e7bf29ca5adcba5c3e9aa1739c6",
+      "downloadLocation": "NONE",
+      "licenseConcluded": "Apache-2.0",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "comment": "This is a binary package built by vcpkg."
+    },
+    {
+      "SPDXID": "SPDXRef-resource-1",
+      "name": "KhronosGroup/OpenXR-SDK",
+      "downloadLocation": "git+https://github.com/KhronosGroup/OpenXR-SDK@release-1.0.31",
+      "licenseConcluded": "NOASSERTION",
+      "licenseDeclared": "NOASSERTION",
+      "copyrightText": "NOASSERTION",
+      "checksums": [
+        {
+          "algorithm": "SHA512",
+          "checksumValue": "6efc7596e707f95366dbcdbac9bd7d0c20735a2175b4edf56a9e8a112cf0ab8b664069fe942313164a37119032ddbf5671bc88ab5f276005dd36e4a4dabba1c7"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "fileName": "./C:/Users/William Shepherd/AppData/Local/vcpkg/registries/git-trees/a8275bf000597b3d7cd12109347f21552bcd39cc/fix-jinja2.patch",
+      "SPDXID": "SPDXRef-file-0",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "d4cbf53d6ae45270344d492f93308c6e5ced1d474f9e7654af585ab11a2e97b2"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/William Shepherd/AppData/Local/vcpkg/registries/git-trees/a8275bf000597b3d7cd12109347f21552bcd39cc/fix-openxr-sdk-jsoncpp.patch",
+      "SPDXID": "SPDXRef-file-1",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "179aa63049613bc9f65a92fa6f482b68e4931ba4c67f3cd78a11df1387932674"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/William Shepherd/AppData/Local/vcpkg/registries/git-trees/a8275bf000597b3d7cd12109347f21552bcd39cc/portfile.cmake",
+      "SPDXID": "SPDXRef-file-2",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "dad63a4b3c3b23c3be8ea92e9174e1d9923bfac8ca97bb22bdcd30b9fa34ab38"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/William Shepherd/AppData/Local/vcpkg/registries/git-trees/a8275bf000597b3d7cd12109347f21552bcd39cc/python3_8_compatibility.patch",
+      "SPDXID": "SPDXRef-file-3",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "1d152fd43c4c04854c11f1df183ad320c74a412c44b569e2febbae482314ada6"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    },
+    {
+      "fileName": "./C:/Users/William Shepherd/AppData/Local/vcpkg/registries/git-trees/a8275bf000597b3d7cd12109347f21552bcd39cc/vcpkg.json",
+      "SPDXID": "SPDXRef-file-4",
+      "checksums": [
+        {
+          "algorithm": "SHA256",
+          "checksumValue": "4706b9e2f32d348dcce78df86b2e4a8e26e9d0be27a8facf9920a01e90bf24f3"
+        }
+      ],
+      "licenseConcluded": "NOASSERTION",
+      "copyrightText": "NOASSERTION"
+    }
+  ]
+}

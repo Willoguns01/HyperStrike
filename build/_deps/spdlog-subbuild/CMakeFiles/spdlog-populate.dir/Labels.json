@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/spdlog-populate"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/44d079519100069a9f7fca1a9df539ab/spdlog-populate.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/d28ac8230f89841e1b805d43bd94d6c2/spdlog-populate-complete.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-build.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-configure.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-download.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-install.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-patch.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-test.rule"
+		},
+		{
+			"file" : "D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/CMakeFiles/651899e1e3d575e08cc48740af1ecff1/spdlog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spdlog-populate"
+		],
+		"name" : "spdlog-populate"
+	}
+}

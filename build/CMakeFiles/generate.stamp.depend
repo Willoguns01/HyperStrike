@@ -1,0 +1,69 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/FindVulkan.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/SelectLibraryConfigurations.cmake
+D:/Programming/HyperStrike/CMakeLists.txt
+D:/Programming/HyperStrike/build/CMakeFiles/3.26.3/CMakeCCompiler.cmake
+D:/Programming/HyperStrike/build/CMakeFiles/3.26.3/CMakeCXXCompiler.cmake
+D:/Programming/HyperStrike/build/CMakeFiles/3.26.3/CMakeRCCompiler.cmake
+D:/Programming/HyperStrike/build/CMakeFiles/3.26.3/CMakeSystem.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/Jolt/JoltConfig.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/OpenXR/OpenXRConfig.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/OpenXR/OpenXRConfigVersion.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/OpenXR/OpenXRTargets-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/OpenXR/OpenXRTargets-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/OpenXR/OpenXRTargets.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/enkiTS/enkiTSConfig-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/enkiTS/enkiTSConfig-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/enkiTS/enkiTSConfig.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/fastgltf/fastgltfConfig-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/fastgltf/fastgltfConfig-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/fastgltf/fastgltfConfig.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Config.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/glfw3/glfw3Targets.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/simdjson/simdjson-config-version.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/simdjson/simdjson-config.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/simdjson/simdjsonTargets-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/simdjson/simdjsonTargets-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/simdjson/simdjsonTargets.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/stb/FindStb.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/stb/vcpkg-cmake-wrapper.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/zstd/zstdConfig.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/zstd/zstdConfigVersion.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/zstd/zstdTargets-debug.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/zstd/zstdTargets-release.cmake
+D:/Programming/HyperStrike/build/vcpkg_installed/x64-windows/share/zstd/zstdTargets.cmake
+D:/Programming/HyperStrike/vcpkg-configuration.json
+D:/Programming/HyperStrike/vcpkg.json
+D:/vcpkg/scripts/buildsystems/vcpkg.cmake

@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\HYPERSTRIKE\BUILD\_DEPS\SPDLOG-SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Programming/HyperStrike -BD:/Programming/HyperStrike/build --check-stamp-file D:/Programming/HyperStrike/build/_deps/spdlog-build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

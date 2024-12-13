@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\HYPERSTRIKE\BUILD\_DEPS\SPDLOG-SUBBUILD\CMAKEFILES\44D079519100069A9F7FCA1A9DF539AB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Programming/HyperStrike/build/_deps/spdlog-subbuild -BD:/Programming/HyperStrike/build/_deps/spdlog-subbuild --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Programming/HyperStrike/build/_deps/spdlog-subbuild/spdlog-populate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

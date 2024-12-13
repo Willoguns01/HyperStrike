@@ -1,0 +1,8 @@
+D:/Programming/HyperStrike/build/CMakeFiles/HyperStrike_Engine.dir
+D:/Programming/HyperStrike/build/CMakeFiles/HyperStrike_Client.dir
+D:/Programming/HyperStrike/build/CMakeFiles/HyperStrike_Server.dir
+D:/Programming/HyperStrike/build/CMakeFiles/HyperStrike_AssetCompiler.dir
+D:/Programming/HyperStrike/build/CMakeFiles/ALL_BUILD.dir
+D:/Programming/HyperStrike/build/CMakeFiles/ZERO_CHECK.dir
+D:/Programming/HyperStrike/build/_deps/spdlog-build/CMakeFiles/spdlog.dir
+D:/Programming/HyperStrike/build/_deps/spdlog-build/CMakeFiles/ALL_BUILD.dir

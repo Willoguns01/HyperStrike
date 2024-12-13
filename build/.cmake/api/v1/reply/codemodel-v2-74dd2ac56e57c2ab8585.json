@@ -1,0 +1,640 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external-Debug-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"jsonFile" : "directory-_deps.spdlog-build-Debug-3790064a732d6f3fdfbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "HyperStrike_AssetCompiler",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-01e102e84d345ab8fb9b.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-ALL_BUILD-Debug-6e5c1365e0a9656a0e35.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_AssetCompiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_AssetCompiler-Debug-11fa73b2d2051a875687.json",
+					"name" : "HyperStrike_AssetCompiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Client-Debug-ba3d401787cda11b85bb.json",
+					"name" : "HyperStrike_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Engine-Debug-183627a24b94d00c7cd8.json",
+					"name" : "HyperStrike_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Server-Debug-2bad92df8ce4ce3c8b9a.json",
+					"name" : "HyperStrike_Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-c6517d14ffe385ee8ea3.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-Debug-396e7c5ddde0d28e21e5.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external-Release-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"jsonFile" : "directory-_deps.spdlog-build-Release-3790064a732d6f3fdfbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "HyperStrike_AssetCompiler",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-01e102e84d345ab8fb9b.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-ALL_BUILD-Release-6e5c1365e0a9656a0e35.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_AssetCompiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_AssetCompiler-Release-400b4eacc257bbaba53f.json",
+					"name" : "HyperStrike_AssetCompiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Client-Release-28a2aea63b6ba922d57d.json",
+					"name" : "HyperStrike_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Engine-Release-6d72fb966d0d1f6f47e5.json",
+					"name" : "HyperStrike_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Server-Release-fe46a381b4ce02a44613.json",
+					"name" : "HyperStrike_Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-c6517d14ffe385ee8ea3.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-Release-cb91c9409b5f94d60796.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external-MinSizeRel-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"jsonFile" : "directory-_deps.spdlog-build-MinSizeRel-3790064a732d6f3fdfbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "HyperStrike_AssetCompiler",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-01e102e84d345ab8fb9b.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-6e5c1365e0a9656a0e35.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_AssetCompiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_AssetCompiler-MinSizeRel-2c968e7594451bd985e0.json",
+					"name" : "HyperStrike_AssetCompiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Client-MinSizeRel-3a736d953d38a1fdb22f.json",
+					"name" : "HyperStrike_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Engine-MinSizeRel-0760f30f31111cf32214.json",
+					"name" : "HyperStrike_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Server-MinSizeRel-309babc366a2da2d1d77.json",
+					"name" : "HyperStrike_Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-c6517d14ffe385ee8ea3.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-MinSizeRel-91b89531f4732237ac3f.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "external",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-external-RelWithDebInfo-d8969718d56d94ae4e32.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "external"
+				},
+				{
+					"build" : "_deps/spdlog-build",
+					"jsonFile" : "directory-_deps.spdlog-build-RelWithDebInfo-3790064a732d6f3fdfbd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "build/_deps/spdlog-src",
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "HyperStrike_AssetCompiler",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "spdlog",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-01e102e84d345ab8fb9b.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "ALL_BUILD::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-6e5c1365e0a9656a0e35.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_AssetCompiler::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_AssetCompiler-RelWithDebInfo-52cbe6c882a9cc432d62.json",
+					"name" : "HyperStrike_AssetCompiler",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Client::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Client-RelWithDebInfo-789ac6a4f846760251d2.json",
+					"name" : "HyperStrike_Client",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Engine::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Engine-RelWithDebInfo-f33e8714114ac140f945.json",
+					"name" : "HyperStrike_Engine",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HyperStrike_Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HyperStrike_Server-RelWithDebInfo-53291dcad5c231bf4f80.json",
+					"name" : "HyperStrike_Server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-c6517d14ffe385ee8ea3.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "spdlog::@eb35cfce7893ccfeff1e",
+					"jsonFile" : "target-spdlog-RelWithDebInfo-c1fac9383e9b903eac78.json",
+					"name" : "spdlog",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/HyperStrike/build",
+		"source" : "D:/Programming/HyperStrike"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
